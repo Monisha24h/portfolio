@@ -42,11 +42,10 @@ body,h1,h2,h3,h4,h5.h6,p{
     font-weight: bold;
     color:ghostwhite ;
   }
-  .menu-bar ul li:hover {
-background: #fff;
-}
   .menu-bar ul li a:hover {
-	color: #30222a;
+	background: ghostwhite;
+	color: #281D24;
+	padding: 10px 20px;
 }
  /*---body-area---*/
  .body-area {
